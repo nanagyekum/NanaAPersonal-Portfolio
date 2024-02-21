@@ -2,6 +2,7 @@ var typed = new Typed(".alotText", {
   strings: [
     "a Frontend Developer",
     "an Actress",
+    "an Entrepreneur",
     "a Public Speaker",
     "a TV Personality",
   ],

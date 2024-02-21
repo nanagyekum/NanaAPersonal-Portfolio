@@ -169,7 +169,7 @@ body {
 .homeImg img {
   max-width: 450px;
   padding: 20px 30px;
-  border-radius: 30px;
+  border-radius: 60px;
   opacity: 0;
   animation: zoomIn 1ms ease forwards, floatImage 4s ease-in-out infinite;
   animation-delay: 2s, 3s;
