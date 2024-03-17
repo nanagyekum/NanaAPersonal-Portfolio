@@ -11,3 +11,5 @@ var typed = new Typed(".alotText", {
   backDelay: 1000,
   loop: true,
 });
+
+audioElement.play();
