@@ -29,6 +29,10 @@ h1 {
   align-items: center;
   z-index: 100;
 }
+p {
+  text-align: center;
+  display: flex;
+}
 .logo {
   font-size: 20px;
   color: orange;
